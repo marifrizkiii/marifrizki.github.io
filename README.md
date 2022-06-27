@@ -1,4 +1,3 @@
-# marifrizki.github.io
 # My Portfolio
 
 # My Project That I've Been Working On While Studying For 2 Years
